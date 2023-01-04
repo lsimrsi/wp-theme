@@ -2,7 +2,6 @@
 /wp-includes
 /wp-content/plugins/akismet
 /wp-content/plugins/hello.php
-/wp-content/themes/twentytwentythree
 /wp-content/debug.log
 
 wp-config.php
