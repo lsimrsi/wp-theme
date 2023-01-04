@@ -1,5 +1,6 @@
 /wp-admin
 /wp-includes
+/wp-content/themes/twentytwentythree
 /wp-content/plugins/akismet
 /wp-content/plugins/hello.php
 /wp-content/debug.log
