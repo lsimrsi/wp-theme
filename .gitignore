@@ -1,8 +1,9 @@
 /wp-admin
 /wp-includes
+/wp-content/debug.log
 /wp-content/themes/twentytwentythree
 /wp-content/plugins/akismet
 /wp-content/plugins/hello.php
-/wp-content/debug.log
+/wp-content/uploads
 
 wp-config.php
